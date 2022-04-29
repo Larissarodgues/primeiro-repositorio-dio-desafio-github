@@ -1,8 +1,0 @@
-Comandos básicos no sistema Windows
-cd = mudar pastas
-dir = listar pastas
-mkdir = criar pastas/arquivos
-del = deletar arquivos
-rmdir = deletar a pasta com todos os seus arquivos
-cls = limpar a tela
-Tecla Tab = alto completa um nome na hora de digitar
